@@ -1,0 +1,15 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "bot of skype",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jie Wang",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.2",
+    "restify": "^4.2.0"
+  }
+}
